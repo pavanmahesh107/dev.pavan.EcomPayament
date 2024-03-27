@@ -12,7 +12,7 @@ public class RazorpayWebHookController {
 
     @PostMapping("/")
     public ResponseEntity acceptwebHookRequest(){
-           //redirect to UI
+           //redirect to UI;
         return null;
     }
 }
